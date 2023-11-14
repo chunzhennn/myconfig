@@ -12,6 +12,7 @@ let g:coc_global_extensions = ['coc-json', 'coc-vimlsp', 'coc-clangd', 'coc-pyri
 
 set hidden
 set relativenumber number
+set mouse=nv
 
 syntax enable
 
