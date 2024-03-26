@@ -10,9 +10,12 @@ call plug#end()
 
 let g:coc_global_extensions = ['coc-json', 'coc-vimlsp', 'coc-clangd', 'coc-pyright', 'coc-sh', 'coc-marketplace']
 
+set tabstop=4
+set shiftwidth=4
+
 set hidden
 set relativenumber number
-set mouse=nv
+set mouse=a
 
 syntax enable
 
