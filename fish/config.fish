@@ -58,3 +58,6 @@ function kerninit
 
 	cd $cwd
 end
+
+# Created by `pipx` on 2024-05-20 11:01:12
+set PATH $PATH /home/zqy/.local/bin
